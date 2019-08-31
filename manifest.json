@@ -1,0 +1,21 @@
+{
+  "name": "SPA As a PWA App",
+  "short_name": "SPA",
+  "icons": [
+    {
+      "src": "/images/welcome995-899.jpg",
+      "type": "image/jpg",
+      "sizes": "995-899"
+    }
+    
+  ],
+  "start_url": "/index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#00BFFF",
+  "description": "A simple Spa Clone, implementing a lot of PWA love.",
+  "dir": "ltr",
+  "lang": "en-US"
+}
